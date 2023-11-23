@@ -1,0 +1,10 @@
+D:\MAIN STORAGE\Download\calc-deleget-event-master\calc-deleget-event-master\calc deleget event\bin\Debug\calc deleget event.exe.config
+D:\MAIN STORAGE\Download\calc-deleget-event-master\calc-deleget-event-master\calc deleget event\bin\Debug\calc deleget event.exe
+D:\MAIN STORAGE\Download\calc-deleget-event-master\calc-deleget-event-master\calc deleget event\bin\Debug\calc deleget event.pdb
+D:\MAIN STORAGE\Download\calc-deleget-event-master\calc-deleget-event-master\calc deleget event\obj\Debug\calc deleget event.csprojResolveAssemblyReference.cache
+D:\MAIN STORAGE\Download\calc-deleget-event-master\calc-deleget-event-master\calc deleget event\obj\Debug\calc_deleget_event.hasil.resources
+D:\MAIN STORAGE\Download\calc-deleget-event-master\calc-deleget-event-master\calc deleget event\obj\Debug\calc_deleget_event.Oprasi.resources
+D:\MAIN STORAGE\Download\calc-deleget-event-master\calc-deleget-event-master\calc deleget event\obj\Debug\calc_deleget_event.Properties.Resources.resources
+D:\MAIN STORAGE\Download\calc-deleget-event-master\calc-deleget-event-master\calc deleget event\obj\Debug\calc deleget event.csproj.GenerateResource.Cache
+D:\MAIN STORAGE\Download\calc-deleget-event-master\calc-deleget-event-master\calc deleget event\obj\Debug\calc deleget event.exe
+D:\MAIN STORAGE\Download\calc-deleget-event-master\calc-deleget-event-master\calc deleget event\obj\Debug\calc deleget event.pdb
